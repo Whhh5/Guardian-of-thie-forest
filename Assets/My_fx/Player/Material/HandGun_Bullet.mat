@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: HandGun_Bullet
+  m_Shader: {fileID: -6465566751694194690, guid: eea32d48b16c81f45ba4a44cd4f7d5d4, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_54FD2514:
+        m_Texture: {fileID: 2800000, guid: 95e6c8fa076e5294c8d9fc405f1237cc, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_7E64F7E0:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2DLOD_83612604_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 583ed559515c1634e900e8e9e667b852, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_39E52B23: 1
+    - Vector1_A1B2A8AE: 0
+    m_Colors:
+    - Color_CA14BE91: {r: 0, g: 0.9098039, b: 1.4980392, a: 0}
+    - Vector2_FA4F665D: {r: 0, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []

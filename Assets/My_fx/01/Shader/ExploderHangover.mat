@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ExploderHangover
+  m_Shader: {fileID: -6465566751694194690, guid: c39c319659cafe24abf86eb02eadbd96, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_F54923B6:
+        m_Texture: {fileID: 2800000, guid: e69f7d794759cad4e9e98a91afa81473, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_33EC61F1_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 583ed559515c1634e900e8e9e667b852, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_23800A19: -1.56
+    - Vector1_FBD5F8D8: 1
+    m_Colors:
+    - Color_78BE1C2F: {r: 1093.6963, g: 0, b: 0, a: 0}
+    - Vector4_6838CEC3: {r: -2, g: 0, b: -1, a: 0.5}
+  m_BuildTextureStacks: []
